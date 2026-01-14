@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Mood Trace
-//
-//  Created by 점승현 on 1/14/26.
-//
-
 import UIKit
 import CoreData
 
